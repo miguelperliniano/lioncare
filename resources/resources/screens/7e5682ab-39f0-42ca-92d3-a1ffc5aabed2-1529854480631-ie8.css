@@ -1,0 +1,44 @@
+#s-7e5682ab-39f0-42ca-92d3-a1ffc5aabed2 #s-Image_1 {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-7e5682ab-39f0-42ca-92d3-a1ffc5aabed2 #s-Bg_1 {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-7e5682ab-39f0-42ca-92d3-a1ffc5aabed2 #s-arrow-back_4 {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-7e5682ab-39f0-42ca-92d3-a1ffc5aabed2 #s-Text_5 {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-7e5682ab-39f0-42ca-92d3-a1ffc5aabed2 #s-Rectangle_2 {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0) ;
+  filter: alpha(opacity=0) ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.devMobile .non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-7e5682ab-39f0-42ca-92d3-a1ffc5aabed2 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
