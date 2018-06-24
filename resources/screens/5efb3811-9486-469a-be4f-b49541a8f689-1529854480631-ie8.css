@@ -1,0 +1,32 @@
+#s-5efb3811-9486-469a-be4f-b49541a8f689 #s-Image_1 {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-5efb3811-9486-469a-be4f-b49541a8f689 #s-Text_1 {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-5efb3811-9486-469a-be4f-b49541a8f689 #s-Text_2 {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.devMobile .non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-5efb3811-9486-469a-be4f-b49541a8f689 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
